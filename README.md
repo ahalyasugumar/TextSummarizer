@@ -1,0 +1,2 @@
+# TextSummarizer
+Summarization of Text
